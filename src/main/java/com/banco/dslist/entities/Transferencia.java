@@ -2,7 +2,7 @@ package com.banco.dslist.entities;
 
 import java.util.Objects;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 
